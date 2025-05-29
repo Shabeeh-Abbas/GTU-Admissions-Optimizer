@@ -33,6 +33,3 @@ This project builds a decision-support tool to assist Global Tech University (GT
 | Linear Regression       | 0.68                    | 0.64                      |
 | Decision Tree Regressor| 0.73                    | 0.71                      |
 | Random Forest Regressor| 0.85 (tuned)            | 0.82                      |
-
-## 📂 Folder Structure
-
